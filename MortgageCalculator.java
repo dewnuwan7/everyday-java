@@ -1,8 +1,8 @@
 import  java.util.*;
 import java.text.NumberFormat;
 
-public class TM_FILENAME_BASE {
-  public static void main(){
+public class MortgageCalculator {
+  public static void main(String[] args){
     int principal;
     float rate;
     final byte percent = 100;
